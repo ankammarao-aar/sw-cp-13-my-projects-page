@@ -28,3 +28,37 @@
   height: 16vh;
   margin: 10px;
 }
+
+.bg-Advanced-container {
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+  height: 100vh;
+  background-size: cover;
+}
+
+.advanced-card {
+  background-color: white;
+  border-top-left-radius: 22px;
+  border-top-right-radius: 22px;
+  padding: 25px;
+}
+
+.advanced-card-heading {
+  font-family: "Bree Serif";
+  font-size: 24px;
+  color: #5752ab;
+}
+
+.advanced-card-para {
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #323f4b;
+}
+
+.learn-button {
+  color: #5752ab;
+  background-color: #ffffff;
+  border-color: #d7dfe9;
+  border-radius: 6px;
+  height: 38px;
+  width: 130px;
+}
