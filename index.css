@@ -110,3 +110,38 @@
   font-size: 16px;
   font-weight: 500;
 }
+
+.bg-food-container {
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png");
+  height: 100vh;
+  background-size: cover;
+  color: #323f4b;
+}
+
+.meals-card {
+  background-color: #f6c56e;
+  padding: 25px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.main-heading {
+  font-size: 28px;
+  font-family: "Bree Serif";
+  font-weight: bold;
+}
+
+.para {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.food-button {
+  font-family: "Roboto";
+  font-size: 12px;
+  background-color: #ffffff;
+  height: 40px;
+  width: 125px;
+  border-radius: 10px;
+  border: 0px;
+}
